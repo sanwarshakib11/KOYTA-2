@@ -1,0 +1,399 @@
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* bannaer section  */
+#main-menu ul li a {
+    font-size: 13px;
+    line-height: 34px;
+}
+#banner {
+    height: 450px;
+}
+#banner h5 {
+    font-size: 18px;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+#banner h1 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 15px;
+}
+#banner p {
+    font-size: 21px;
+    line-height: 32px;
+    padding-bottom: 30px;
+}
+#banner a {
+    padding: 20px 25px;
+}
+/* about section  */
+#about {
+    padding: 40px 0;
+}
+/* service section  */
+#service {
+    padding: 10px 0;
+}
+.service-title h5::after {
+    right: 38%;
+}
+.service-title h2 {
+    font-size: 32px;
+}
+/* video area  */
+.my-service {
+    margin: 50px 0;
+}
+.my-service h5 {
+    margin: 15px 0;
+}
+.video-box {
+    top: 40%;
+    left: 40%;
+}
+.my-skill {
+    margin: 70px 0;
+}
+.progress-box {
+    margin: 15px 20px;
+}
+.progress-box .one {
+	left: 66%;
+}
+.progress-box .two {
+	left: 61%;
+}
+.progress-box .three {
+	left: 43%;
+}
+/* counter area  */
+.counter-item {
+    margin: 10px 0;
+}
+.counter-item-icon img {
+    margin-right: 20px;
+}
+.counter-item-wrapper span {
+    font-size: 14px;
+    padding: 0 15px;
+}
+/* gallary section  */
+.gallary-title h5::after {
+    right: 43%;
+}
+.gallary-title h2 {
+    font-size: 32px;
+    margin: 35px 0;
+}
+/* client section  */
+#client {
+    margin: 50px 0;
+    padding-bottom: 50px;
+}
+.client-wrapper {
+    padding-top: 30px;
+}
+.client-wrapper h5::after {
+    right: 45%;
+}
+.client-wrapper h2 {
+    font-size: 32px;
+    margin: 40px 0;
+}
+.client-btn.fa-chevron-left {
+    left: calc(5% - 50px);
+    top: 50%;
+}
+.client-btn.fa-chevron-right {
+    right: calc(5% - 50px);
+    top: 50%;
+}
+/* pricing table  */
+#pricing-table {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.pricing-table-title h5 {
+    margin: 20px 0;
+}
+.pricing-table-title h5::after {
+    right: 38%;
+}
+.pricing-table-title h2 {
+    font-size: 32px;
+    margin: 50px 0;
+}
+.price-box {
+    margin: 40px 5px;
+}
+/* blog section  */
+#blog {
+    padding: 30px 0;
+}
+.blog-title h5 {
+    margin: 20px 0;
+}
+.blog-title h5::after {
+    right: 38%;
+}
+.blog-title h2 {
+    margin: 50px 0;
+    font-size: 32px;
+}
+/* contact section  */
+.contact-title h5 {
+    margin: 20px 0;
+}
+.contact-title h5::after {
+    right: 42%;
+}
+.contact-title h2 {
+    line-height: 20px;
+    font-size: 32px;
+    margin: 50px 0;
+}
+/* footer section  */
+#footer {
+    padding: 50px 0;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* bannaer section  */
+#main-menu ul li a {
+    font-size: 13px;
+    line-height: 35px;
+}
+#banner {
+    height: 450px;
+}
+#banner h5 {
+    font-size: 18px;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+#banner h1 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 15px;
+}
+#banner p {
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 30px;
+}
+#banner a {
+    padding: 20px 25px;
+}
+/* about section  */
+#about {
+    padding: 40px 0;
+}
+/* service section  */
+#service {
+    padding: 10px 0;
+}
+/* video area  */
+.my-service {
+    margin: 50px 0;
+}
+.my-service h5 {
+    margin: 15px 0;
+}
+.video-box {
+    top: 40%;
+    left: 40%;
+}
+.my-skill {
+    margin: 70px 0;
+}
+.progress-box {
+    margin: 15px 20px;
+}
+.progress-box .one {
+	left: 74%;
+}
+.progress-box .two {
+	left: 70%;
+}
+.progress-box .three {
+	left: 57%;
+}
+/* counter area  */
+.counter-item {
+    margin: 20px 0;
+}
+.counter-item-icon img {
+    margin-right: 20px;
+}
+/* gallary section  */
+.gallary-title h5::after {
+    right: 45%;
+}
+.gallary-box {
+    margin: 0px 30px;
+}
+/* client section  */
+#client {
+    margin: 70px 0;
+    padding-bottom: 70px;
+}
+.client-wrapper {
+    padding-top: 30px;
+}
+.client-wrapper h5::after {
+    right: 46%;
+}
+.client-btn.fa-chevron-left {
+    left: calc(5% - 50px);
+    top: 50%;
+}
+.client-btn.fa-chevron-right {
+    right: calc(5% - 50px);
+    top: 50%;
+}
+/* pricing table  */
+#pricing-table {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.pricing-table-title h5 {
+    margin: 20px 0;
+}
+.pricing-table-title h5::after {
+    right: 41%;
+}
+.pricing-table-title h2 {
+    margin: 50px 0;
+}
+.price-box {
+    margin: 40px 5px;
+}
+/* blog section  */
+#blog {
+    padding: 30px 0;
+}
+.blog-title h5 {
+    margin: 20px 0;
+}
+.blog-title h5::after {
+    right: 41%;
+}
+.blog-title h2 {
+    margin: 50px 0;
+}
+/* contact section  */
+.contact-title h5 {
+    margin: 20px 0;
+}
+.contact-title h5::after {
+    right: 44%;
+}
+.contact-title h2 {
+    line-height: 20px;
+    margin: 50px 0;
+}
+/* footer section  */
+#footer {
+    padding: 50px 0;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* banner section  */
+#banner {
+	height: 650px;
+}
+#main-menu ul li a {
+	line-height: 70px;
+}
+#banner h5 {
+	padding-bottom: 30px;
+}
+#banner h1 {
+	font-size: 60px;
+	padding-bottom: 20px;
+}
+#banner a {
+	font-size: 13px;
+	padding: 15px 20px;
+}
+/* service section  */
+.service-title h5::after {
+	right: 43%;
+}
+/* video section  */
+.my-skill {
+	margin: 185px 0;
+}
+.progress-box .one {
+	left: 61%;
+}
+.progress-box .two {
+	left: 55%;
+}
+.progress-box .three {
+	left: 35%;
+}
+/* counter area section  */
+.counter-item-icon img {
+    margin-right: 15px;
+}
+.counter-item-wrapper span {
+    padding: 0 10px;
+    font-size: 14px;
+}
+.counter-item-wrapper p {
+    font-size: 30px;
+    padding: 0; 
+}
+/* pricing table  */
+.price-box {
+    margin: 40px 5px;
+}
+/* gallary section  */
+.gallary-title h5::after {
+	right: 46%;
+}
+}
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+/* service section */
+.service-title h5::after {
+	right: 42.6%;
+}
+/* video section  */
+.progress-box .one {
+	left: 73%;
+}
+.progress-box .two {
+	left: 69%;
+}
+.progress-box .three {
+	left: 54%;
+}
+/* gallary section  */
+.gallary-title h5::after {
+	right: 47.1%;
+}
+/* client section  */
+.client-wrapper h5::after {
+	right: 48%;
+}
+/* pricing table section  */
+.pricing-table-title h5::after {
+	right: 45%;
+}
+/* blog section  */
+.blog-title h5::after {
+	right: 45%;
+}
+/* contact section  */
+.contact-title h5::after {
+	right: 47%;
+}
+
+}
